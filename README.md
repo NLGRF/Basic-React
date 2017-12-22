@@ -1,8 +1,8 @@
 # Basic-React
 ## Introduction
 ### Install React
-`npm install -g create-react-app`
-`npm install --save react react-dom`
+- `npm install -g create-react-app`
+- `npm install --save react react-dom`
 ## List Course
 * JSX Syntax
 * Style & Expression JSX
